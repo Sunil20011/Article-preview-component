@@ -244,10 +244,7 @@ body {
   .share-button { font-size: 16px; }
 
   .share-option {
-    /**
-     * variable for transforming `.share-option` box 
-     * without repeating all transform value
-     */
+ 
     --scale: 1;
     --translateX: 0;
     --translateY: 100%;
